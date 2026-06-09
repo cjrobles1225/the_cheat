@@ -1,6 +1,6 @@
-https://accounts.google.com/o/oauth2/auth?access_type=offline&client_id=1071006060591-tmhssin2h21lcre235vtolojh4g403ep
-.apps.googleusercontent.com&code_challenge=ZosjXB-jnlElGmSaTuaUuEkhgjqeLD2fIr3DIw1DS58&code_challenge_method=S256&prom
-pt=consent&redirect_uri=https%3A%2F%2Fantigravity.google%2Foauth-callback&response_type=code&scope=https%3A%2F%2Fwww.g
-oogleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googl
-eapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcclog+https%3A%2F%2Fwww.googleapis.com%2
-Fauth%2Fexperimentsandconfigs+openid&state=o8OI7mzmx6_UILJ0pkn5yQ
+ https://accounts.google.com/o/oauth2/auth?access_type=offline&client_id=1071006060591-tmhssin2h21lcre235vtolojh4g403ep
+ .apps.googleusercontent.com&code_challenge=4x5d_79GLJ0pk0BXw8ER7d0xoaCtKPStfulUnkSxvj8&code_challenge_method=S256&prom
+ pt=consent&redirect_uri=https%3A%2F%2Fantigravity.google%2Foauth-callback&response_type=code&scope=https%3A%2F%2Fwww.g
+ oogleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googl
+ eapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcclog+https%3A%2F%2Fwww.googleapis.com%2
+ Fauth%2Fexperimentsandconfigs+openid&state=-IUsQTg-hacJqgzeWXBFkA
